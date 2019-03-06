@@ -11,6 +11,8 @@ gem 'devise'
 gem 'jquery-rails'
 # add Bootstrap-sass
 gem 'bootstrap-sass'
+# add payjp gem
+gem 'payjp'
 # Use sqlite3 as the database for Active Record
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
